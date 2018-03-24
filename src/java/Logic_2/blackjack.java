@@ -18,6 +18,6 @@ public class blackjack {
         if(b > 21){
             return a;
         }
-        return a > b ? a : b;;
+        return a > b ? a : b;
     }
 }
